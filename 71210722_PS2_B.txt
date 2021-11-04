@@ -1,0 +1,9 @@
+Ada 4 buah gelas kosong (A,B,C,D) dengan masing-masing kapasitas 1000L, 700L, 300L,
+dan 100L. Kemudian, gelas A, B, dan C diberi lubang tepat dibagian tepi tengah gelas dan
+diberi sedotan agar air dapat mengalir ke gelas dibawahnya seperti pada gambar dibawah
+ini. Hitunglah berapa liter air pada gelas D apabila gelas A dituangkan 1000L air ! 
+
+Dari gelas A mengalir sebanyak 1000 liter ke gelas B,
+Dari gelas B mengalir sebanyak 700 liter ke gelas C,
+Dari gelas C mengalir sebanyak 300 liter ke gelas D,
+Maka gelas D berisi 0 liter air.
