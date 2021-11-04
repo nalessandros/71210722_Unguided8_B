@@ -1,0 +1,36 @@
+Berikut adalah papan permainan arsir. Tentukan step by step X dapat mengarsir HANYA
+wilayah Hx dan step by step Y dapat mengarsir HANYA wilayah Hy !
+
+Untuk Hx :
+1. X.ADD_RIGHT
+2. X.ADD_DOWN
+3. X.ADD_RIGHT
+4. X.ADD_DOWN
+5. X.ADD_DOWN
+6. X.ADD_RIGHT
+7. X.ADD_RIGHT
+8. X.ADD_DOWN
+9. X.DIE
+10. X.DIE
+11. X.DIE
+12. X.DIE 
+13. X.DIE
+14. X.DIE 
+15. X.DIE
+16. X.DIE 
+
+Untuk Hy :
+1. Y.ADD_UP
+2. Y.ADD_LEFT
+3. Y.ADD_LEFT
+4. Y.ADD_UP
+5. Y.ADD_UP
+6. Y.ADD_LEFT
+7. Y.ADD_LEFT
+8. Y.DIE
+9. Y.DIE 
+10. Y.DIE 
+11. Y.DIE 
+12. Y.DIE 
+13. Y.DIE 
+14. Y.DIE 
